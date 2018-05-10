@@ -1,0 +1,15 @@
+<layer>
+  <name>ctsrange_known_</name>
+  <id>LayerInfoImpl--575f14dc:16297317ba8:-7e80</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--4608b947:156489eff0a:-726a</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--575f14dc:16297317ba8:-7e81</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

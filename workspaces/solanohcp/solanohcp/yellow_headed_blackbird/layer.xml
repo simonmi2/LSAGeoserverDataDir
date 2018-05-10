@@ -1,0 +1,15 @@
+<layer>
+  <name>yellow_headed_blackbird</name>
+  <id>LayerInfoImpl--575f14dc:16297317ba8:-7f78</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--2a76f296:1582b150e7f:-7f80</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--575f14dc:16297317ba8:-7f79</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

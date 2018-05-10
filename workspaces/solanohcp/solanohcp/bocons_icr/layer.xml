@@ -1,0 +1,15 @@
+<layer>
+  <name>bocons_icr</name>
+  <id>LayerInfoImpl--575f14dc:16297317ba8:-7fb6</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--40aa912f:1581af31881:-7de3</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--575f14dc:16297317ba8:-7fb7</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

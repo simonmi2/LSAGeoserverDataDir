@@ -1,0 +1,15 @@
+<layer>
+  <name>creek</name>
+  <id>LayerInfoImpl--575f14dc:16297317ba8:-7e6e</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--575f14dc:16297317ba8:-7e6f</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

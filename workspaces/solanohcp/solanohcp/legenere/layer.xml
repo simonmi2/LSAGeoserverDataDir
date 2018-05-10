@@ -1,0 +1,15 @@
+<layer>
+  <name>legenere</name>
+  <id>LayerInfoImpl--36f6b1c:1631d762d0a:-7ace</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-30b33b33:15826fe304c:-7f1e</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--36f6b1c:1631d762d0a:-7acf</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

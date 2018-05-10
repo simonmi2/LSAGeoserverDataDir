@@ -1,0 +1,40 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--5f73512d:162d555ddb4:-7b43</id>
+  <name>ferrisgoldfields</name>
+  <nativeName>ferrisgoldfields</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--4ac385cd:162500cf7bb:-7ffe</id>
+  </namespace>
+  <title>ferrisgoldfields</title>
+  <keywords>
+    <string>features</string>
+    <string>ferrisgoldfields</string>
+  </keywords>
+  <srs>EPSG:404000</srs>
+  <nativeBoundingBox>
+    <minx>-121.997177124023</minx>
+    <maxx>-121.989410400391</maxx>
+    <miny>38.2723655700684</miny>
+    <maxy>38.2794532775879</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-121.997177124023</minx>
+    <maxx>-121.989410400391</maxx>
+    <miny>38.2723655700684</miny>
+    <maxy>38.2794532775879</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--4ac385cd:162500cf7bb:-7ffd</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

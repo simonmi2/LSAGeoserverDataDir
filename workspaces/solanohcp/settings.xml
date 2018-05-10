@@ -1,0 +1,29 @@
+<settings>
+  <id>SettingsInfoImpl--6e25629f:162788d1f15:-7ffd</id>
+  <workspace>
+    <id>WorkspaceInfoImpl--4ac385cd:162500cf7bb:-7fff</id>
+    <name>solanohcp</name>
+  </workspace>
+  <contact>
+    <id>contact</id>
+    <addressCity>Alexandria</addressCity>
+    <addressCountry>Egypt</addressCountry>
+    <contactEmail>michelle.simon@lsa.net</contactEmail>
+    <contactOrganization>LSA</contactOrganization>
+    <contactPerson>LSA GIS Admin</contactPerson>
+  </contact>
+  <charset>UTF-8</charset>
+  <numDecimals>8</numDecimals>
+  <onlineResource>http://geoserver.org</onlineResource>
+  <verbose>false</verbose>
+  <verboseExceptions>false</verboseExceptions>
+  <metadata>
+    <map>
+      <entry>
+        <string>quietOnNotFound</string>
+        <boolean>false</boolean>
+      </entry>
+    </map>
+  </metadata>
+  <localWorkspaceIncludesPrefix>false</localWorkspaceIncludesPrefix>
+</settings>

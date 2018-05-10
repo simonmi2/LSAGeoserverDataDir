@@ -1,0 +1,15 @@
+<layer>
+  <name>streamorder</name>
+  <id>LayerInfoImpl--575f14dc:16297317ba8:-7f1e</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-7086ffed:1567b3e8050:-756f</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--575f14dc:16297317ba8:-7f1f</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

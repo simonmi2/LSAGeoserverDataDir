@@ -1,0 +1,15 @@
+<layer>
+  <name>san_joaquin_valley_orcutt_grass</name>
+  <id>LayerInfoImpl--36f6b1c:1631d762d0a:-7acc</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-30b33b33:15826fe304c:-7f12</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--36f6b1c:1631d762d0a:-7acd</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

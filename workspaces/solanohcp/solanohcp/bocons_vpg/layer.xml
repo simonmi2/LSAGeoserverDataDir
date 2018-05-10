@@ -1,0 +1,15 @@
+<layer>
+  <name>bocons_vpg</name>
+  <id>LayerInfoImpl-e945e5f:162d018220a:-7e8c</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--40aa912f:1581af31881:-7de5</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-e945e5f:162d018220a:-7e8d</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

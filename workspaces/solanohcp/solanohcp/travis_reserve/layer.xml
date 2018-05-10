@@ -1,0 +1,15 @@
+<layer>
+  <name>travis_reserve</name>
+  <id>LayerInfoImpl--6e25629f:162788d1f15:-7fe6</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--4608b947:156489eff0a:-7341</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--6e25629f:162788d1f15:-7fe7</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

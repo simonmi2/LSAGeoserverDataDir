@@ -1,0 +1,15 @@
+<layer>
+  <name>grid_5000m_allspecies</name>
+  <id>LayerInfoImpl-2fe3c5f0:162f4d26419:-7d75</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-2fe3c5f0:162f4d26419:-7d6d</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-2fe3c5f0:162f4d26419:-7d76</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

@@ -1,0 +1,15 @@
+<layer>
+  <name>alkali_milk_vetch</name>
+  <id>LayerInfoImpl--36f6b1c:1631d762d0a:-7aaa</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-7086ffed:1567b3e8050:-7669</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--36f6b1c:1631d762d0a:-7aab</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

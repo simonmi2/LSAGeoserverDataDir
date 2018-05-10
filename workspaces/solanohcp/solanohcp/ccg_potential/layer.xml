@@ -1,0 +1,15 @@
+<layer>
+  <name>ccg_potential</name>
+  <id>LayerInfoImpl--575f14dc:16297317ba8:-7f94</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-644d0e44:15657a2aefc:-7e31</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--575f14dc:16297317ba8:-7f95</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

@@ -1,0 +1,15 @@
+<layer>
+  <name>priority_watersheds</name>
+  <id>LayerInfoImpl--575f14dc:16297317ba8:-7ee4</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-df61443:156475078f3:-7f88</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--575f14dc:16297317ba8:-7ee5</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

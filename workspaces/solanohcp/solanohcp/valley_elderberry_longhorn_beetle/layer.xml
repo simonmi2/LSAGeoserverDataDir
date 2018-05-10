@@ -1,0 +1,15 @@
+<layer>
+  <name>valley_elderberry_longhorn_beetle</name>
+  <id>LayerInfoImpl--36f6b1c:1631d762d0a:-7ade</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-30b33b33:15826fe304c:-7f06</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--36f6b1c:1631d762d0a:-7adf</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

@@ -1,0 +1,15 @@
+<layer>
+  <name>soft_salty_birds_beak</name>
+  <id>LayerInfoImpl--36f6b1c:1631d762d0a:-7ab8</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-30b33b33:15826fe304c:-7f10</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--36f6b1c:1631d762d0a:-7ab9</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

@@ -1,0 +1,15 @@
+<layer>
+  <name>coastal_marsh</name>
+  <id>LayerInfoImpl--575f14dc:16297317ba8:-7f88</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--2b2399ee:155f09df2ae:-7ff7</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--575f14dc:16297317ba8:-7f89</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

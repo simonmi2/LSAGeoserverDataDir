@@ -1,0 +1,50 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--36f6b1c:1631d762d0a:-7aa9</id>
+  <name>californiatigersalamander</name>
+  <nativeName>californiatigersalamander</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--4ac385cd:162500cf7bb:-7ffe</id>
+  </namespace>
+  <title>californiatigersalamander</title>
+  <keywords>
+    <string>features</string>
+    <string>californiatigersalamander</string>
+  </keywords>
+  <nativeCRS>GEOGCS[&quot;WGS 84&quot;, &#xd;
+  DATUM[&quot;World Geodetic System 1984&quot;, &#xd;
+    SPHEROID[&quot;WGS 84&quot;, 6378137.0, 298.257223563, AUTHORITY[&quot;EPSG&quot;,&quot;7030&quot;]], &#xd;
+    AUTHORITY[&quot;EPSG&quot;,&quot;6326&quot;]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH], &#xd;
+  AUTHORITY[&quot;EPSG&quot;,&quot;4326&quot;]]</nativeCRS>
+  <srs>EPSG:4326</srs>
+  <nativeBoundingBox>
+    <minx>-121.971435546875</minx>
+    <maxx>-121.797073364258</maxx>
+    <miny>38.1529159545898</miny>
+    <maxy>38.3086242675781</maxy>
+    <crs>EPSG:4326</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-121.971435546875</minx>
+    <maxx>-121.797073364258</maxx>
+    <miny>38.1529159545898</miny>
+    <maxy>38.3086242675781</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--4ac385cd:162500cf7bb:-7ffd</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

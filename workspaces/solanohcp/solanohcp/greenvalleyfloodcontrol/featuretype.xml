@@ -1,0 +1,47 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--575f14dc:16297317ba8:-7eab</id>
+  <name>greenvalleyfloodcontrol</name>
+  <nativeName>greenvalleyfloodcontrol</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--4ac385cd:162500cf7bb:-7ffe</id>
+  </namespace>
+  <title>greenvalleyfloodcontrol</title>
+  <keywords>
+    <string>features</string>
+    <string>greenvalleyfloodcontrol</string>
+  </keywords>
+  <nativeCRS>GEOGCS[&quot;WGS 84&quot;, &#xd;
+  DATUM[&quot;World Geodetic System 1984&quot;, &#xd;
+    SPHEROID[&quot;WGS 84&quot;, 6378137.0, 298.257223563, AUTHORITY[&quot;EPSG&quot;,&quot;7030&quot;]], &#xd;
+    AUTHORITY[&quot;EPSG&quot;,&quot;6326&quot;]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH], &#xd;
+  AUTHORITY[&quot;EPSG&quot;,&quot;4326&quot;]]</nativeCRS>
+  <srs>EPSG:4326</srs>
+  <nativeBoundingBox>
+    <minx>-122.137603759766</minx>
+    <maxx>-122.114295959473</maxx>
+    <miny>38.2088317871094</miny>
+    <maxy>38.2624320983887</maxy>
+    <crs>EPSG:4326</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-122.137603759766</minx>
+    <maxx>-122.114295959473</maxx>
+    <miny>38.2088317871094</miny>
+    <maxy>38.2624320983887</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--4ac385cd:162500cf7bb:-7ffd</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

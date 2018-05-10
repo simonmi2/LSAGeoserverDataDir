@@ -1,0 +1,15 @@
+<layer>
+  <name>suisunmarsh_consarea</name>
+  <id>LayerInfoImpl-e945e5f:162d018220a:-7ea4</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-7086ffed:1567b3e8050:-7562</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-e945e5f:162d018220a:-7ea5</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

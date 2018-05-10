@@ -1,0 +1,15 @@
+<layer>
+  <name>vfg</name>
+  <id>LayerInfoImpl--575f14dc:16297317ba8:-7f64</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--2fb30968:1553b350ecc:-7e59</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--575f14dc:16297317ba8:-7f65</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

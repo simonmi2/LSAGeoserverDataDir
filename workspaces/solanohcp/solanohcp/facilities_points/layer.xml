@@ -1,0 +1,15 @@
+<layer>
+  <name>facilities_points</name>
+  <id>LayerInfoImpl--575f14dc:16297317ba8:-7e92</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--40aa912f:1581af31881:-7e4b</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--575f14dc:16297317ba8:-7e93</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

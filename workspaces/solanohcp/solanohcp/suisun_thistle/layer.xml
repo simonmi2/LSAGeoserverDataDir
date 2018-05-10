@@ -1,0 +1,15 @@
+<layer>
+  <name>suisun_thistle</name>
+  <id>LayerInfoImpl--36f6b1c:1631d762d0a:-7ad8</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-30b33b33:15826fe304c:-7f0c</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--36f6b1c:1631d762d0a:-7ad9</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

@@ -1,0 +1,15 @@
+<layer>
+  <name>planarea</name>
+  <id>LayerInfoImpl--6e25629f:162788d1f15:-7ff6</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-484789e2:15344079b1f:-7fec</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--6e25629f:162788d1f15:-7ff7</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

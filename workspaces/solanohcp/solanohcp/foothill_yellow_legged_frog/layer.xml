@@ -1,0 +1,15 @@
+<layer>
+  <name>foothill_yellow_legged_frog</name>
+  <id>LayerInfoImpl--36f6b1c:1631d762d0a:-7ac8</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--2a76f296:1582b150e7f:-7feb</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--36f6b1c:1631d762d0a:-7ac9</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

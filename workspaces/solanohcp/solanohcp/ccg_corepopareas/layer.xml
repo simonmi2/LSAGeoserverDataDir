@@ -1,0 +1,15 @@
+<layer>
+  <name>ccg_corepopareas</name>
+  <id>LayerInfoImpl--5f73512d:162d555ddb4:-7c1d</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--3d41fb16:1535341f021:-7eee</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--5f73512d:162d555ddb4:-7c1e</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

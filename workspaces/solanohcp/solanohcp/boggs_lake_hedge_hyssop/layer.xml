@@ -1,0 +1,15 @@
+<layer>
+  <name>boggs_lake_hedge_hyssop</name>
+  <id>LayerInfoImpl--36f6b1c:1631d762d0a:-7aac</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--5f73512d:162d555ddb4:-79c2</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--36f6b1c:1631d762d0a:-7aad</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

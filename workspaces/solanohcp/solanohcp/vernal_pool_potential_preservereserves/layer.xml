@@ -1,0 +1,15 @@
+<layer>
+  <name>vernal_pool_potential_preservereserves</name>
+  <id>LayerInfoImpl--575f14dc:16297317ba8:-7f56</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--40aa912f:1581af31881:-7e59</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--575f14dc:16297317ba8:-7f57</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

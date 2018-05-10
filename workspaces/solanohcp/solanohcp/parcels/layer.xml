@@ -1,0 +1,15 @@
+<layer>
+  <name>parcels</name>
+  <id>LayerInfoImpl--29ffbe2a:162cf65c1c4:-7fc0</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-27f708d0:1580c5248a9:-7fd2</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--29ffbe2a:162cf65c1c4:-7fc1</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

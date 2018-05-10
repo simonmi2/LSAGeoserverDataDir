@@ -1,0 +1,15 @@
+<layer>
+  <name>naturalcommunities</name>
+  <id>LayerInfoImpl--5f73512d:162d555ddb4:-7c17</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-7086ffed:1567b3e8050:-75a8</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--5f73512d:162d555ddb4:-7c18</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

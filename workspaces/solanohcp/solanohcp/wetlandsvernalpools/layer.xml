@@ -1,0 +1,15 @@
+<layer>
+  <name>wetlandsvernalpools</name>
+  <id>LayerInfoImpl--575f14dc:16297317ba8:-7f72</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--36b84fe4:153f19e3692:-7ffe</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--575f14dc:16297317ba8:-7f73</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

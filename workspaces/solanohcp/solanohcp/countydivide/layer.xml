@@ -1,0 +1,15 @@
+<layer>
+  <name>countydivide</name>
+  <id>LayerInfoImpl--6e25629f:162788d1f15:-7fd0</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-27f708d0:1580c5248a9:-7e86</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--6e25629f:162788d1f15:-7fd1</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>
